@@ -221,7 +221,7 @@ sniff test/**/*.html -r txt -l reports
 txt, csv, json.
 
 #### Report Location
-`-r` or `-reportLocation`
+`-l` or `-reportLocation`
 
 #### Force
 `-f` or `-force`
